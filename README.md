@@ -21,9 +21,6 @@ Explore the interactive IPL analysis and performance dashboard below:
 ### IPL Analysis DashBoard
 ![IPL Analysis DashBoard](https://github.com/SakshamJain9999/IPL-ANALYSIS-DashBoard/blob/main/DashBoard/DashBoard%20Page%202.png)
 
-View the Dashboard
-You can view the IPL Analysis and Performance Dashboard on Power BI by visiting the following link:
-
 ## View Dashboard on Power BI
 You can view the **IPL ANALYSIS DashBoard** dashboard on Power BI by visiting the following link:
 
