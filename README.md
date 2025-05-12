@@ -14,3 +14,31 @@ This project focuses on analyzing and visualizing performance data from the Indi
 ## Dashboard
 
 Explore the interactive IPL analysis and performance dashboard below:
+
+### Cover Photo
+![Cover Photo](https://github.com/SakshamJain9999/IPL-ANALYSIS-DashBoard/blob/main/DashBoard/DashBoard%20Page%201.png)
+
+### IPL Analysis DashBoard
+![IPL Analysis DashBoard](https://github.com/SakshamJain9999/IPL-ANALYSIS-DashBoard/blob/main/DashBoard/DashBoard%20Page%202.png)
+
+View the Dashboard
+You can view the IPL Analysis and Performance Dashboard on Power BI by visiting the following link:
+
+## View Dashboard on Power BI
+You can view the **IPL ANALYSIS DashBoard** dashboard on Power BI by visiting the following link:
+
+[View Dashboard on Power BI](https://project.novypro.com/iCTfJh)
+
+## Technologies Used
+- **Python**  
+  - Used for data cleaning, transformation, and analysis.
+- **Libraries**
+  - Pandas, NumPy, Matplotlib, Seaborn, Plotly — for data manipulation and visual exploration.
+- **SQL**
+  - Used for querying structured match and player data from IPL datasets.
+- **Jupyter Notebooks**  
+  - For exploratory data analysis (EDA), performance breakdowns, and statistical insights.
+- **Power BI**
+  - Utilized to create interactive dashboards showcasing team performances, player stats, and match trends.
+
+
